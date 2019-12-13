@@ -64,7 +64,6 @@ class MainActivity : AppCompatActivity() {
         }else if(age == 5 && radio == radioButtonMale) {
             insurance += 200
         }
-
         if(age == 1 && smoke == 1) {
             insurance += 100
         }else if(age == 2 && smoke == 1) {
